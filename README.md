@@ -19,3 +19,7 @@ Then just execute the script
 
 chmod +x ./scraper.py 
 ./scraper.py
+
+It looks like this: 
+
+![How it looks when the scraper runs](scrape_reddit.gif)
