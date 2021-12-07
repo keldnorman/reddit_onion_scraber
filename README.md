@@ -7,9 +7,11 @@ You need to create a developer account on Reddit first here: https://www.reddit.
 
 Then fill out this inside of the python file: 
 
+'''
 client_id = 'r00SoMeLettersAndStuff'                 <-- See the image where i marked the number 1
 user_agent = 'Finding onions (by u/your_name)'       <-- Whatever you like here
 client_secret = 'HeReIs30CharsFromTheDevWebPage'     <-- See the image where i marked the number 2
+'''
 
 ![Application at Reddit dev page](dev.png)
 
